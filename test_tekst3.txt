@@ -3,4 +3,7 @@
 
 Используйте команды git status и git status -s.
 
+Hello mad Mad Max!!!
+
+
 
