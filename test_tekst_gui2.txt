@@ -1,0 +1,3 @@
+test tekst for GUI
+task 9.7.1.
+ver 2.0
